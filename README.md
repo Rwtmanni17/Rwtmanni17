@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Sarthak Rawat 👋
 
 🎓 B.Tech Electronics & Communication Engineering (ECE) Student

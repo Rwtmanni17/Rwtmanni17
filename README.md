@@ -1,52 +1,25 @@
 # Hi, I'm Sarthak Rawat 👋
 
-🎓 B.Tech Electronics & Communication Engineering (ECE) Student
+RTL Design & Verification Enthusiast
 
-💡 Passionate about Digital Design, RTL Design, Functional Verification, and ASIC Design Flow
+## Tech Stack
 
-## 🛠 Technical Skills
+![Verilog](https://img.shields.io/badge/VERILOG-RTL%20DESIGN-1E90FF?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SYSTEMVERILOG-VERIFICATION-8A2BE2?style=for-the-badge)
+![Git](https://img.shields.io/badge/GIT-VERSION%20CONTROL-F05032?style=for-the-badge)
+![Python](https://img.shields.io/badge/PYTHON-SCRIPTING-3776AB?style=for-the-badge)
 
-### RTL Design
+## Currently Learning
+- RTL Design
+- Functional Verification
+- Digital Design
 
-* Verilog HDL
-* Digital Logic Design
-* Combinational Circuits
-* Sequential Circuits
-* Finite State Machines (FSM)
-
-### Verification
-
-* SystemVerilog
-* Testbench Development
-* Functional Verification
-* UVM (Learning)
-
-### Tools
-
-* Xilinx Vivado
-* EDA Playground
-* Git
-* GitHub
-
-## 📚 Currently Learning
-
-* RTL Design Methodology
-* SystemVerilog for Verification
-* UVM
-* Static Timing Analysis (STA)
-* CMOS VLSI Fundamentals
-* ASIC Design Flow
-
-## 🚀 Projects
-
-* Ripple Carry Adder
-* Two Bit Comparator
-* Multiplexers
-* Decoders
-* ALU (Upcoming)
-* FIFO (Upcoming)
-* UART (Upcoming)
-* SPI (Upcoming)
+## Featured Projects
+- Ripple Carry Adder
+- MUX & DEMUX
+- Encoder & Decoder
+- SR Latch
+- D Latch
 
 ## 🎯 Career Objective
 

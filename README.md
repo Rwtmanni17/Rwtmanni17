@@ -49,4 +49,4 @@ Currently expanding expertise in SystemVerilog, Functional Verification, ASIC De
 
 - **LinkedIn:** https://www.linkedin.com/in/sarthak-rawat-ab646033b
 - **Email:** mannurawat863@gmail.com
-- 
+ 

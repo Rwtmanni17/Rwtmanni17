@@ -19,14 +19,6 @@ Currently expanding expertise in SystemVerilog, Functional Verification, ASIC De
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rwtmanni17&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">

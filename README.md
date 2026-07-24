@@ -1,6 +1,6 @@
 # Sarthak Rawat
 
-### Front-End VLSI | RTL Design | Functional Verification
+### Front-End VLSI | RTL Design | Functional Verification 
 
 Electronics and Communication Engineering undergraduate with a strong interest in Front-End VLSI Design. Focused on designing synthesizable RTL using Verilog HDL and building digital systems through hands-on implementation and verification.
 
